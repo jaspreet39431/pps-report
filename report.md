@@ -15,8 +15,8 @@ Batch: 2019-2023
 
 -----------
 
-                                                         EXPERIMENT NO: 1
-Write a code to print name of the collage.
+ #                                                       Experiment No: 1
+ Write a code to print name of the collage.
 ```C
 #include<stdio.h>
 int main()
@@ -24,8 +24,8 @@ int main()
     puts("Guru Nanak Dev Engineering Collage");
 }
 ```
-                                                         EXPERIMENT NO: 2
-Write a code to print the word 'Hello'.
+   #                                                       Experiment No: 2
+ Write a code to print the word 'Hello'.
 ```C
 #include<stdio.h>
 int main()
@@ -33,8 +33,8 @@ int main()
     puts("Hello");
 }
 ```
-                                                         EXPERIMENT NO: 3
-Design a code to execute addition of two numbers.
+ #                                                        Experiment No: 3
+ Design a code to execute addition of two numbers.
 ```C
 #include<stdio.h>
 int main()
@@ -48,8 +48,8 @@ sum=a+b;
 printf("sum:%d",sum);
 }
 ```
-                                                       EXPERIMENT NO: 4
-Write a computer program in C, which takes two numbers (integers) as input and print the smaller number.
+  #                                                     Experiment No: 4
+ Write a computer program in C, which takes two numbers (integers) as input and print the smaller number.
 ```C
 #include<stdio.h>
 int main()
@@ -66,8 +66,8 @@ printf("250");
 }
      }
 ```
-                                                     EXPERIMENT NO:5
-Write a C program to print a big ' C '.
+#                                                      Experiment No:5
+ Write a C program to print a big ' C '.
 ```C
  ######
 ##    ##
@@ -94,7 +94,7 @@ int main()
     puts(" ######");
 }
 ```
-                                                        EXPERIMENT NO: 6
+  #                                                      Experiment No: 6
  Design a code to execute addition of two numbers.
 ```C
 #include<stdio.h>
@@ -109,8 +109,8 @@ sum=a+b;
 printf("sum:%d",sum);
 }
 ```
-                                                       EXPERIMENT NO: 7
-Write a computer program in C, which takes two numbers (integers) as input and print the smaller number.
+ #                                                      Experiment No: 7
+ Write a computer program in C, which takes two numbers (integers) as input and print the smaller number.
 ```C
 #include<stdio.h>
 int main()
@@ -128,8 +128,8 @@ int main()
      }
 }
 ```
-                                                     EXPERIMENT NO: 8
-Write a C program to print the following character in a reverse way without using any predefined function and header file.
+  #                                                   Experiment No: 8
+ Write a C program to print the following character in a reverse way without using any predefined function and header file.
 ```C
 #include<stdio.h>
 int main()
@@ -141,8 +141,8 @@ int main()
     printf("%c%c%c",char3,char2,char1);
 }
 ```
-                                                    EXPERIMENT NO: 9
-Write a C program to compute the perimeter and area of a rectangle with a height of 7 inches and width of 5 inches.
+  #                                                  Experiment No: 9
+ Write a C program to compute the perimeter and area of a rectangle with a height of 7 inches and width of 5 inches.
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -157,8 +157,8 @@ int main()
     printf("\n area of the rectangle : %d square inches",area);
 }
 ```
-                                                  EXPERIMENT NO: 10
-Design a code to execute addition of two numbers if the sum is even.
+  #                                                Experiment No: 10
+ Design a code to execute addition of two numbers if the sum is even.
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -179,8 +179,8 @@ int main()
     }
 }
 ```
-                                                     EXPERIMENT NO: 11
- Design a code to mark 'Present' if student entered in a hall before 8:35 and marked 'Late' before 8:45 otherwise marked 'Absent'.If user will enter the time between 8:00 - 8:14 then display a message 'Sorry Gate closed' and if user  will enter the time less than 8:00 then display a message 'Its wrong Time'.
+  #                                                   Experiment No: 11
+  Design a code to mark 'Present' if student entered in a hall before 8:35 and marked 'Late' before 8:45 otherwise marked 'Absent'.If user will enter the time between 8:00 - 8:14 then display a message 'Sorry Gate closed' and if user  will enter the time less than 8:00 then display a message 'Its wrong Time'.
  ```C
  #include<stdio.h>
 int main()
@@ -221,8 +221,8 @@ int main()
    }
 }}}
 ```
-                                                     EXPERIMENT NO: 12
-Write a code to convert temperature from Fahrenheit scale to centigrade scale.
+   #                                                  Experiment No: 12
+ Write a code to convert temperature from Fahrenheit scale to centigrade scale.
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -235,8 +235,8 @@ int main()
     printf("TEMPERATURE IN CENTIGRADE : %f",cent);
 }
 ```
-                                                     EXPERIMENT NO: 13
-Write a code to find the factorial of a number.
+  #                                                   Experiment No: 13
+ Write a code to find the factorial of a number.
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -250,8 +250,8 @@ int main()
     printf("factorial of %d = %d",a,f);
 }
 ```
-                                                 EXPERIMENT NO: 14
-Write a code to print table of any number.
+  #                                               Experiment No: 14
+ Write a code to print table of any number.
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -264,8 +264,8 @@ int main()
     printf("\n%d x %d=%d",n,i,n*i);}
 }
 ```
-                                               EXPERIMENT NO: 15
-Write a code to display the number is prime or not.
+  #                                             Experiment No: 15
+ Write a code to display the number is prime or not.
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -291,8 +291,8 @@ int main()
     }
 }
 ```
-                                                      EXPERIMENT NO: 16
-Write a program to swap two numbers using a temporary variable.
+  #                                                    Experiment No: 16
+ Write a program to swap two numbers using a temporary variable.
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -310,8 +310,8 @@ int main()
     printf("\n after swapping secong no. is %d",b); 
 }
 ```
-                                                   EXPERIMENT NO: 17
-Write a code to print a range of prime number between some range.
+  #                                                 Experiment No: 17
+ Write a code to print a range of prime number between some range.
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -334,6 +334,122 @@ int main()
         return 0;
 }
 ```   
-                           
+  #                                                      Experiment No: 18
+ Write a code of 'FIZZ-BUZZ'.
+```C
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+  int i;
+  scanf("%d",&i);
+  if(i%15==0)
+    printf("FizzBuzz\t");
+  else if((i%3)==0)
+    printf("Fizz\t");
+      else if((i%5)==0)
+          printf("buzz\t");
+    else
+    printf("%d\t",i);
+    return 0;
+    }
+```
+  #                                                   Experiment No: 19
+ Program to print a pyramid.
+```C
+     #include<stdio.h> 
+     int main() 
+     { 
+     int i,j,n; 
+     printf("\nEnter number of Rows: "); 
+     scanf("%d",&n); 
+     printf("\n"); 
+      
+     for(i=1; i<=n; i++) 
+     { 
+         for(j=1; j<=2*n-1; j++) 
+         { 
+         if(j>=n-(i-1) && j<=n+(i-1)) 
+         printf("*"); 
+         else 
+         printf(" "); 
+         } 
+         printf("\n"); 
+         } 
+         return 0;
+         }
+ ```
+  #                                                     Experiment No: 20
+ Program to find volume.
+```C
+#include<stdio.h> 
+    int main() 
+    { 
+    int a;                             //a = Code of the shape      
+    float sphere,Sr,pi=22.0/7.0;       //Cr = radius of circle, sphere = volume (sphere)
+    float Cs,cube;                     //Cs = side, cude = volumre (cube) 
+    float Rl,Rb,Rh,rectangle;          //Rl = length, Rb = breadth, Rh = Heigth, rectangle = volume(cuboid)
+    float Cr,Ch,cylinder;              //Cr = Radius, Ch = Height, cylinder = Volume (cylinder)
+    float CoR,CoH,cone;                //CoR = Radius, CoH = Height, cone=volume(cone)
+    
+    printf("\n\nPress 1 (Sphere) \nPress 2 (Cube) \nPress 3 (Rectangle) \nPress 4 (Cylinder) \nPress 5 (Cone) \n
+    \nEnter the shape,you wants to find the volume);
+    scanf("%d", &a); 
  
-     
+    switch(a) 
+    { 
+    case 1: 
+      if(a==1) 
+      { printf("\nEnter the radius of Sphere: "); 
+      scanf("%f", &Sr); 
+      sphere = 4*pi*Sr*Sr*Sr/3; 
+      printf("Volume of Shpere = %.4f", sphere); 
+      break;  } 
+ 
+    case 2: 
+      if(a==2) 
+      { printf("\nEnter the Side of Cube: "); 
+      scanf("%f", &Cs); 
+      cube = Cs*Cs*Cs; 
+      printf("Volume of Cube = %.4f", cube); 
+      break;  } 
+         
+    case 3: 
+      if(a==3) 
+      {  printf("\nEnter the length of Rectangle: "); 
+      scanf("%f", &Rl); 
+      printf("Enter the breadth of Rectangle: "); 
+      scanf("%f", &Rb); 
+      printf("Enter the Height of Rectangle: "); 
+      scanf("%f", &Rh); 
+      rectangle = Rl*Rb*Rh; 
+      printf("Volume of Rectangle = %.4f", rectangle); 
+      break;  } 
+         
+    case 4: 
+      if(a==4) 
+      {  printf("\nEnter the Radius of Cylinder: "); 
+      scanf("%f", &Cr); 
+      printf("Enter the Height of Cylinder: "); 
+      scanf("%f", &Ch); 
+      cylinder = pi*Cr*Cr*Ch; 
+      printf("Volume of Cylinder = %.4f", cylinder); 
+      break;  } 
+         
+    case 5: 
+      if(a==5) 
+      {  printf("\nEnter the Radius of Cone: "); 
+      scanf("%f", &CoR); 
+      printf("Enter the Height of Cone: "); 
+      scanf("%f", &CoH); 
+      cone = pi*CoR*CoR*CoH/3; 
+      printf("Volume of Cone = %.4f", cone); 
+      break;  } 
+         return 0;
+         }
+         ```
+                                                        
+
+
+
+
